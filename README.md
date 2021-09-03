@@ -1,9 +1,12 @@
 # Community Support  
+
+**Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
 ![jdstudio](https://user-images.githubusercontent.com/85981735/130237213-e8a8204e-6ddd-4665-87cc-07f15baa4185.png)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 Raise an [issue to join the Jaiswal Development Studio GitHub organisation](https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization).
+
 
 ### Some vague idea of how we could turn this into a support channel.
 
