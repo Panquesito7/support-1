@@ -1,8 +1,6 @@
-<div align="center">
+# Community Support 🤝
 
-<h1> Community Support 🤝 </h1>
-
-<b> Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)! </b>
+ **Join the conversation on our [Discord community](https://discord.gg/wXFWgsAuzR)!**
 
 <img src="https://user-images.githubusercontent.com/85981735/130237213-e8a8204e-6ddd-4665-87cc-07f15baa4185.png">
 
@@ -10,10 +8,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<p> <a href="https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">Raise an issue to join the Jaiswal Development Studio GitHub organisation</a></p>
-
-</div>
-
+[Raise an issue to join the Jaiswal Development Studio GitHub organisation]("https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
 
 ### Some vague idea of how we could turn this into a support channel... 🤔💭
 
