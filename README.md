@@ -58,15 +58,15 @@ Please check out the [issue queue](https://github.com/jaidevstudio/support/issue
 	
 	- Click on the highlighted area:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/101496938-47da5000-3962-11eb-8ab3-8fd3ea327d1d.png)
+		![Screenshot (134)](https://user-images.githubusercontent.com/85981735/132147918-cc16b8b9-b7aa-4717-a0d2-f897e225d04b.png)
 	
 	- Enter your username in the highlighted searchbar:
 	
-		![screenshot](https://user-images.githubusercontent.com/13745974/102218327-b3c63680-3ed5-11eb-9295-aafa5e59ebfd.png)
+		![Screenshot (139)](https://user-images.githubusercontent.com/85981735/132148093-1cb93e24-6b72-45d3-ae1c-6998417b39f0.png)
 	
 	- Click `Private` (the default) and set it to `Public`
 	
-		![Screenshot_20200916_231045](https://user-images.githubusercontent.com/17693494/93422970-26d9f580-f872-11ea-870d-4406db20e9d5.png)
+		![Screenshot (136)](https://user-images.githubusercontent.com/85981735/132148007-08c7b66c-969c-4466-9c37-b0726a564ea4.png)
 	
 	
 - **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/jaidevstudio/support/issues/).
