@@ -8,7 +8,7 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[Raise an issue to join the Jaiswal Development Studio GitHub organisation]("https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)
+**[Raise an issue to join the Jaiswal Development Studio GitHub organisation]("https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)**
 
 ### Some vague idea of how we could turn this into a support channel... 🤔💭
 
