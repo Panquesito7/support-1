@@ -10,15 +10,15 @@
 
 **[Raise an issue to join the Jaiswal Development Studio GitHub organisation]("https://github.com/jaidevstudio/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization)**
 
-### Some vague idea of how we could turn this into a support channel... 🤔💭
+### Some vague ideas of how we could turn this into a support channel... 🤔💭
 
 Imagine the scenario where you are helping a stranger, a friend, or a colleague on Discord / MS Teams / Slack / YouTube, etc. They may have found an old article from 5+ years ago about Docker that is not supported or a Node.js article that isn't supported in Node v14. That sort of thing...
 
 You volunteer to help that person and pair on it. You fix it and they get super happy.
 
-The unfortunate thing about this is that it lacks a write-up on what was used. It's important to know the articles that were used for reference purpose. This is where a GitHub issue queue comes in. That way, folks could Google for somebody with the same problem!
+The unfortunate thing about this is that it lacks a write-up on what was used. It's important to know the articles that were used for reference purposes. This is where a GitHub issue queue comes in. That way, folks could Google for somebody with the same problem!
 
-Unfortunately, StackOverflow has a bit of a broken reputation system where folks with the "worst accepted answer" can actually start to get privileges to do more things.
+Unfortunately, StackOverflow has a bit of a broken reputation system where folks with the "worst accepted answer" can  start to get privileges to do more things.
 
 ### Ideas 💡
 
